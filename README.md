@@ -1,2 +1,2 @@
 # DigitalClock
-Javascript project
+JavaScript Project Practice 02
